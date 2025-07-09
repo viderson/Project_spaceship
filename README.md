@@ -80,7 +80,7 @@ To apply real-world ML techniques to a Kaggle-style dataset and showcase:
 ## 📌 Credits
 
 - Dataset: [Spaceship Titanic on Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/)
-- Author: [Your Name]
+- Author: FW
 
 ---
 
